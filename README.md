@@ -23,3 +23,10 @@ Adds 5, 8, 13 and 100 as thickness options for pens
 File: `thickness.qmd`
 
 Version: 3.17
+
+### Mini Light Sleep Banner
+Replaces the light sleep banner with a Zzz... text at the top right of the screen
+
+File: `miniLightSleep.qmd`
+
+Version: 3.17
