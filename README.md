@@ -30,3 +30,10 @@ Replaces the light sleep banner with a Zzz... text at the top right of the scree
 File: `miniLightSleep.qmd`
 
 Version: 3.17
+
+### Pages indicator
+Adds a pages indicator in the sidebar. Tapping it opens the page quick scroll menu
+
+File: `pagesIndicator.qmd`
+
+Version: 3.17
