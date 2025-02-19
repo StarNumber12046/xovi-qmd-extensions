@@ -37,3 +37,10 @@ Adds a pages indicator in the sidebar. Tapping it opens the page quick scroll me
 File: `pagesIndicator.qmd`
 
 Version: 3.17
+
+### Uncompress Create Menu
+Replaces the `+` menu with separate options to add a folder, notebook and quick sheets page
+
+File: `uncompressCreate.qmd`
+
+Version: 3.17
