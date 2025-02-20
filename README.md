@@ -57,3 +57,10 @@ Version: 3.17
 
 ![{1F911ECF-11DC-42B0-B0DA-67CD7A41ABE0}](https://github.com/user-attachments/assets/1dbb6bbf-12a9-4f99-a0e2-6756fc8195d0)
 
+### Remove "New Page" Button
+Removes the "New Page" button when swiping off the end of a file
+
+File: `autoNewPage.qmd`
+
+Version: 3.17
+
