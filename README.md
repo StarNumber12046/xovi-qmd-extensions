@@ -64,7 +64,7 @@ File: `autoNewPage.qmd`
 
 Version: 3.17
 
-### Hide document close buttom
+### Hide document close button
 Removes the (x) button at the top right of documents
 
 File: `hideDocumentClose.qmd`
@@ -74,5 +74,11 @@ Version: 3.17
 ### Show "Experimental" and "Developer" settings
 
 File: `showAllSettings.qmd`
+
+Version: 3.17
+
+### Hide "Show Toolbar" button
+
+File: `hideShowToolbar.qmd`
 
 Version: 3.17
