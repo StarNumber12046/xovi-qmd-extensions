@@ -71,8 +71,7 @@ File: `hideDocumentClose.qmd`
 
 Version: 3.17
 
-###
-Show "Experimental" and "Developer" settings
+### Show "Experimental" and "Developer" settings
 
 File: `showAllSettings.qmd`
 
