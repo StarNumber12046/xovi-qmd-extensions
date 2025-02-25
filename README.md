@@ -1,7 +1,13 @@
 # Xovi QMD Extensions
 These are extensions for [qt-resource-rebuilder](https://github.com/asivery/rmpp-xovi-extensions/tree/master/qt-resource-rebuilder).
+
 ## Installation
 Put the qmd files in `/home/root/xovi/exthome/qt-resource-rebuilder/`
+
+Then ssh into your reMarkable device
+
+And use the new extensions `xovi/start`
+
 ## Extensions
 ### Clock
 A clock in the sidebar
@@ -80,5 +86,7 @@ Version: 3.17
 ### Hide "Show Toolbar" button
 
 File: `hideShowToolbar.qmd`
+
+Attention: `To show the hidden toolbar again, you must use "Gesture.qmd" or "Gesture-temp-fix.qmd" from the page "https://github.com/FouzR/xovi-extensions/tree/main"`
 
 Version: 3.17
