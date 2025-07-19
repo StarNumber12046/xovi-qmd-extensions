@@ -1,0 +1,16 @@
+AFFECT /qt/qml/xofm/modules/settings/qml/QuickSettingsWindow.qml 
+    IMPORT device.ui.text 1.0
+
+    TRAVERSE BaseView > Item > Background > ColumnLayout > Item > RowLayout#statusRow
+
+        LOCATE BEFORE MinimalBatteryIndicator#batteryIndicator
+        INSERT {
+            TextParagraph {
+                id: clocks
+                text: Qt.formatTime( new  Date(), "hh:mm")
+            }   
+        }
+
+    END TRAVERSE
+
+END AFFECT
